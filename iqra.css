@@ -3,8 +3,8 @@
 }
 @font-face{
     font-family: myfont;
-    /* src: url(./font/TiroDevanagariMarathi-Italic.ttf); */
-    src: url(./TiroDevanagariMarathi-Regular.ttf);
+    /* src: url(./TiroDevanagariMarathiItalic.ttf); */
+    src: url(./TiroDevanagariMarathiRegular.ttf);
 }
 .ak{
     fontfamily:myfont;
