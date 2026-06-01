@@ -6,6 +6,9 @@
     /* src: url(./font/TiroDevanagariMarathi-Italic.ttf); */
     src: url(./TiroDevanagariMarathi-Regular.ttf);
 }
+.ak{
+    fontfamily:myfont;
+}
 nav{
 
     display: flex;
