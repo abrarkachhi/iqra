@@ -1,0 +1,38 @@
+*{
+    
+}
+@font-face{
+    font-family: myfont;
+    /* src: url(./font/TiroDevanagariMarathi-Italic.ttf); */
+    src: url(./TiroDevanagariMarathi-Regular.ttf);
+}
+nav{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aqua;
+    font-family: myfont;
+    
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+
+}
+
+nav ul li{
+    list-style: none;
+    margin: 0cm 40px;
+    
+}
+.right{
+
+}
+.left
+{
+
+}
+.middel{
+    padding-left: 20px;
+}
